@@ -3,6 +3,9 @@ An open source discord.js bot with a lot of commands and more to come!
 
 made by xqi#1400 and myst#0001
 
+# Note
+We are not done with the bot and will add more commands as time goes on
+
 # Requirements 
 * Node.js recommended latest version - https://nodejs.org/en/
 * Discord bot - https://discord.com/developers/applications
