@@ -1,0 +1,7 @@
+{
+  "name": "Neptune-bot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "token-here",
+  "prefix": "n!"
+}
