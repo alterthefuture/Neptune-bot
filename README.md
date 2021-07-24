@@ -1,7 +1,7 @@
 # Neptune-bot
 An open source discord.js bot with a lot of commands and more to come!
 
-made by xqi#1400 and myst#0001
+made by Luxa#1350 and myst#0001
 
 # Note
 We are not done with the bot and will add more commands as time goes on, as of now feel free to use the bot as is.
