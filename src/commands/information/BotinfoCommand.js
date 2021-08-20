@@ -12,7 +12,7 @@ module.exports = class BotinfoCommand extends BaseCommand {
     const botinfoEmbed = new Discord.MessageEmbed()
     .setTitle('Neptune Bot Information')
     .addFields(
-      { name: 'Developers', value: 'Luxa#1350, myst#0001' },
+      { name: 'Developers', value: 'CatNinja#0001, myst#0001' },
       { name: 'Date of Creation', value: "7/11/21"},
       { name: `Language`, value: "Discord.js V12"},
       { name: 'Bots Ping', value: `${Math.round(client.ws.ping)}`},
